@@ -1,6 +1,6 @@
 # VIRTUAL-CARE-ASSISTANT: Revolutionizing Healthcare with AI
 
-![Virtual Care Assistant](https://github.com/abdulghaffaransari/Virtual-Care-Assistant/blob/main/Results/Pic1.png)
+![Results/Pic1.png)
 
 ## Overview
 
