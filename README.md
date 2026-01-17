@@ -171,7 +171,7 @@ The **Gale Encyclopedia of Medicine** (Second Edition) serves as the foundation 
 
 ## Author
 
-**Abdul Ghaffar Ansari**  
+**Sumair Salam**  
 Email: [sumairsalam9@gmail.com](mailto:sumairsalam9@gmail.com) 
 
 ---
