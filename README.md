@@ -1,6 +1,5 @@
 # VIRTUAL-CARE-ASSISTANT: Revolutionizing Healthcare with AI
-
-![Results/Pic1.png)
+![Virtual Care Assistant](https://github.com/abdulghaffaransari/Virtual-Care-Assistant/blob/main/Results/Pic1.png)
 
 ## Overview
 
@@ -173,7 +172,7 @@ The **Gale Encyclopedia of Medicine** (Second Edition) serves as the foundation 
 ## Author
 
 **Abdul Ghaffar Ansari**  
-Email: [abdulghaffaransari9@gmail.com](mailto:abdulghaffaransari9@gmail.com) 
+Email: [sumairsalam9@gmail.com](mailto:sumairsalam9@gmail.com) 
 
 ---
 
